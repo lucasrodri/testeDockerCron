@@ -1,0 +1,4 @@
+* * * * * root echo "rebeca" >> /tmp/test 
+
+* * * * * root echo "lucas" >> /tmp/test
+
